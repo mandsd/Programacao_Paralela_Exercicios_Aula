@@ -1,4 +1,4 @@
-# Lista de Exercícios — Programação Paralela (OpenMP)
+# Lista de Exercícios 2 — Programação Paralela (OpenMP)
 
 **Aluna:** Amanda Ferreira Dahm  
 **Matrícula:** 2422130022  
